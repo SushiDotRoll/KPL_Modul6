@@ -14,7 +14,7 @@ class Program
                 "Tenet",
                 "Avengers: Endgame",
                 "Parasite",
-                "Joker",
+                "The Joker",
                 "Oppenheimer",
                 "Whiplash",
                 "The Matrix"
