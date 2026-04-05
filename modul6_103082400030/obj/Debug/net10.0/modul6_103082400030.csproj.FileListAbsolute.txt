@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\bin\Debug\net10.0\modul6_103082400030.exe
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\bin\Debug\net10.0\modul6_103082400030.deps.json
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\bin\Debug\net10.0\modul6_103082400030.runtimeconfig.json
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\bin\Debug\net10.0\modul6_103082400030.dll
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\bin\Debug\net10.0\modul6_103082400030.pdb
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\obj\Debug\net10.0\modul6_103082400030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\obj\Debug\net10.0\modul6_103082400030.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\obj\Debug\net10.0\modul6_103082400030.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\obj\Debug\net10.0\modul6_103082400030.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\obj\Debug\net10.0\modul6_103082400030.sourcelink.json
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\obj\Debug\net10.0\modul6_103082400030.dll
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\obj\Debug\net10.0\refint\modul6_103082400030.dll
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\obj\Debug\net10.0\modul6_103082400030.pdb
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\obj\Debug\net10.0\modul6_103082400030.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Matkul_KPL\modul6_103082400030\modul6_103082400030\obj\Debug\net10.0\ref\modul6_103082400030.dll
